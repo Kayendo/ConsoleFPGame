@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\CPProjects\ConsoleFPGame\ConsoleFPGame\Source.cpp(21,12): warning C4305: инициализация: усечение из "double" в "float"
+D:\CPProjects\ConsoleFPGame\ConsoleFPGame\Source.cpp(111,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\CPProjects\ConsoleFPGame\ConsoleFPGame\Source.cpp(129,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ConsoleFPGame.vcxproj -> D:\CPProjects\ConsoleFPGame\x64\Debug\ConsoleFPGame.exe
